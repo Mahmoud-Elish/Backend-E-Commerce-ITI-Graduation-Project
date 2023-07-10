@@ -1,0 +1,14 @@
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commerce.DAL\bin\Debug\net7.0\E_Commerce.DAL.deps.json
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commerce.DAL\bin\Debug\net7.0\E_Commerce.DAL.runtimeconfig.json
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commerce.DAL\bin\Debug\net7.0\E_Commerce.DAL.dll
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commerce.DAL\bin\Debug\net7.0\E_Commerce.DAL.pdb
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commerce.DAL\obj\Debug\net7.0\E_Commerce.DAL.csproj.AssemblyReference.cache
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commerce.DAL\obj\Debug\net7.0\E_Commerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commerce.DAL\obj\Debug\net7.0\E_Commerce.DAL.AssemblyInfoInputs.cache
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commerce.DAL\obj\Debug\net7.0\E_Commerce.DAL.AssemblyInfo.cs
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commerce.DAL\obj\Debug\net7.0\E_Commerce.DAL.csproj.CoreCompileInputs.cache
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commerce.DAL\obj\Debug\net7.0\E_Commerce.DAL.dll
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commerce.DAL\obj\Debug\net7.0\refint\E_Commerce.DAL.dll
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commerce.DAL\obj\Debug\net7.0\E_Commerce.DAL.pdb
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commerce.DAL\obj\Debug\net7.0\E_Commerce.DAL.genruntimeconfig.cache
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commerce.DAL\obj\Debug\net7.0\ref\E_Commerce.DAL.dll

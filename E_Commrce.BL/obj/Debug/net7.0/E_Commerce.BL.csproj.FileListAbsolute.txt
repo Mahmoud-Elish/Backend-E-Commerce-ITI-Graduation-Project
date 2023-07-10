@@ -1,0 +1,15 @@
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commrce.BL\bin\Debug\net7.0\E_Commerce.BL.deps.json
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commrce.BL\bin\Debug\net7.0\E_Commerce.BL.dll
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commrce.BL\bin\Debug\net7.0\E_Commerce.BL.pdb
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commrce.BL\bin\Debug\net7.0\E_Commerce.DAL.dll
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commrce.BL\bin\Debug\net7.0\E_Commerce.DAL.pdb
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commrce.BL\obj\Debug\net7.0\E_Commerce.BL.csproj.AssemblyReference.cache
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commrce.BL\obj\Debug\net7.0\E_Commerce.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commrce.BL\obj\Debug\net7.0\E_Commerce.BL.AssemblyInfoInputs.cache
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commrce.BL\obj\Debug\net7.0\E_Commerce.BL.AssemblyInfo.cs
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commrce.BL\obj\Debug\net7.0\E_Commerce.BL.csproj.CoreCompileInputs.cache
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commrce.BL\obj\Debug\net7.0\E_Commerce.BL.csproj.CopyComplete
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commrce.BL\obj\Debug\net7.0\E_Commerce.BL.dll
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commrce.BL\obj\Debug\net7.0\refint\E_Commerce.BL.dll
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commrce.BL\obj\Debug\net7.0\E_Commerce.BL.pdb
+C:\Users\elish\Desktop\LastX\E-commerce_GP_ITI\E_Commrce.BL\obj\Debug\net7.0\ref\E_Commerce.BL.dll
